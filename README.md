@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/Asna.gif" width=200px>
+  <img align="right" alt="" src="./assets/Asna.gif" width=250px>
 </picture>
 
 🎓 &nbsp;Software Engineering(Hons) Undergraduate at <a href="https://ou.ac.lk/">The Open University Of SriLanka.</a>\
